@@ -1,0 +1,40 @@
+Flavours of the IfElse
+If
+If Else
+Ladder If Else
+Nested If Else
+
+
+1. Write a java program to Find Company name from the given product
+   Possible inputs = {gmail, whatsapp, youtube, Skype, Hangouts, outlook}
+   Possible Outputs = {google, facebook, microsoft}
+2. Write a program to check given character is Vowel or Not
+   Vowel characters are - 'a','e','i','o','u'
+   (If you're not using scanner class it's fine you can directly take char value in program)
+3. Write a program to take username and password from user and print appropriate message
+based on below conditions
+	1. If username correct and password correct ---> Login successful
+	2. If username correct and password incorrect --> Invalid password
+	3. If username incorrect and password correct --> Invalid username
+	2. If username incorrect and password incorrect --> Login unsuccessful
+
+
+
+
+	Write a java program to get marks from users and print grades based on marks (feel free to use any statements)
+    If marks are from 90 to 100 Print A
+    If marks are from 80 to 89 Print B
+    If marks are from 70 to 79 Print C
+    If marks are from 60 to 69 Print D
+    If marks are from 50 to 59 Print E
+    If marks are from 0 to 49 Print Fail
+    2.  Write a program to get T-shirt size in inches and print size based on inches
+    If inches is 27 to 30 Print XS
+    If inches is 31 to 34 Print S
+    If inches is 35 to 38 Print L
+    If inches is 39 to 42 Print XL
+    If inches is 45 to 50 Print XXL
+    3. Write a program to take number from user and check if it's divisible by 5 or 3
+    :+1:
+    3
+
