@@ -3,6 +3,8 @@ package com.java.class02;
 public class DataTypesPractice {
     // Create 6 types of variables bte, int, short, long, float, double, & print into output
 
+
+    
     public static void main(String[] args) {
         byte num1 = 127;
         short num2 =3434;
