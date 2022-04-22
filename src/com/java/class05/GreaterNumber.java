@@ -1,5 +1,7 @@
 package com.java.class05;
+
 import java.util.Scanner;
+
 public class GreaterNumber {
     public static void main(String[] args) {
         System.out.println("Enter any two numbers");

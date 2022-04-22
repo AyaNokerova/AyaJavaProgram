@@ -6,7 +6,7 @@ public class FindEachComponentOfAddress {
         String[] word = address.split( ",");
         System.out.println(word.length);
         for(int i =0; i < word.length; i++)
-       System.out.println(word[i].trim());
+            System.out.println(word[i].trim());
 
 
 

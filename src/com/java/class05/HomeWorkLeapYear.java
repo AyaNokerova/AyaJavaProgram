@@ -8,20 +8,14 @@ public class HomeWorkLeapYear {
         boolean isLeap = false;
         if (year % 4 == 0) {
             if (year % 100 == 0) {
-                if (year % 400 == 0)
-                    isLeap = true;
-
-                else
-                    isLeap = false;
+                isLeap = year % 400 == 0;
             } else
                 isLeap = true;
-        } else {
-            isLeap = false;
         }
-        if (isLeap == true)
-            System.out.println(year + "is a Leap Year");
+        if (isLeap )
+            System.out.println(year + " is a Leap Year");
 
 else
-        System.out.println(year + "is not a Leap Year");
+        System.out.println(year + " is not a Leap Year");
     }
 }
